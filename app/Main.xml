@@ -1,0 +1,73 @@
+﻿<project version="2.9" name="Orders_Integration_POC" ID="15B97A8C-B0F0-45E6-A3A1-015ACBC27B16">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1190,1050)" backgroundColor="4294967295" fontSize="14" fontFamily="Arial" projectType="ptPersonalProject" isShowTitleIndex="True"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Mockups" ID="A22C32F3-D0E2-4ACE-92D5-EB216C4BAFD6" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="Contacts" ID="89A89CCA-A3F9-4D0E-AB8A-228615016C39" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="Contact List" ID="CE736454-07A6-4CE3-803B-4390F59DAE30" expanded="True" code="pFBuR7QzBj" thumbCode="pFBuR7QzBj" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="35CA1CC1026F6EB5A937F8673FF5E4BC.png"/>
+          </images>
+        </page>
+        <page name="Contact Overview Sub Tabs" ID="33A2E922-FD72-476A-89D1-78EEC0033C4A" expanded="True" code="9WnAsZqG7F" thumbCode="VaBI9WjZI1" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="Configure Asset" ID="8469C5E4-40D2-4BB6-B109-E9947C7AD7B9" expanded="True" code="Ckc6Kit3gM" thumbCode="Ckc6Kit3gM" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="5DE52715A557F1E4829647EDB4AE2434.png"/>
+            <image key="13484939AD20D1A4F1E90F2CB500CFF0.png"/>
+            <image key="26F8C22AA32E5FD760542239D59872D3.png"/>
+            <image key="3C1126CF24995AF57C7C15D0C9C9B661.png"/>
+            <image key="CC1B64EDDD8BDD8E9D78DB8CB1E84F24.png"/>
+          </images>
+        </page>
+        <page name="Order Summary" ID="D65713E8-1FD4-42E2-A73D-73A6C271A59B" expanded="True" code="ocmW85Nawv" thumbCode="ocmW85Nawv" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="5DE52715A557F1E4829647EDB4AE2434.png"/>
+            <image key="13484939AD20D1A4F1E90F2CB500CFF0.png"/>
+            <image key="3C1126CF24995AF57C7C15D0C9C9B661.png"/>
+            <image key="CC1B64EDDD8BDD8E9D78DB8CB1E84F24.png"/>
+          </images>
+        </page>
+        <page name="Order - Billing" ID="8DB06BC1-352D-4556-B528-2487F385E9BB" expanded="True" code="qboqBlwlTz" thumbCode="qboqBlwlTz" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="9D3DB9507332AE0DE28FCDAB0E57D8F0.png"/>
+          </images>
+        </page>
+        <page name="Order - Billing Submit" ID="80182F0F-47BB-494C-84C9-F7A131988E8E" expanded="True" code="bb3vriwfLE" thumbCode="bb3vriwfLE" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="50756CC178CDAF119CE54794A5B9E65A.png"/>
+          </images>
+        </page>
+        <page name="Order Submitted" ID="B7DC21AE-BD93-42B3-AC14-0BD7037BE82C" expanded="True" code="E2Q54zZuUH" thumbCode="E2Q54zZuUH" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="5DE52715A557F1E4829647EDB4AE2434.png"/>
+            <image key="13484939AD20D1A4F1E90F2CB500CFF0.png"/>
+            <image key="3C1126CF24995AF57C7C15D0C9C9B661.png"/>
+            <image key="CC1B64EDDD8BDD8E9D78DB8CB1E84F24.png"/>
+          </images>
+        </page>
+        <page name="Contact Overview with Asset Change Order" ID="CF0A4DEE-9ECA-4824-9046-A855892FE9D5" expanded="False" code="16QdNTcDIG" thumbCode="16QdNTcDIG" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+    </page>
+    <page name="Template" ID="A82EB6B9-D460-433B-8C5D-07FEF5D0D082" expanded="False" status="psGreen" isfolder="True" isshownode="True"/>
+  </pages>
+  <trash>
+    <page name="Page" ID="A273E3CA-41DB-4C49-B1BA-52CF77FEA94B" expanded="True" code="P4VSfzA1J3" thumbCode="P4VSfzA1J3" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Order - Billing Submitted" ID="4D6E4B20-A3F9-4375-8067-CC36CD53145A" expanded="False" code="Vi2Hk7ahls" thumbCode="jbakxe3Q9k" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="5DE52715A557F1E4829647EDB4AE2434.png"/>
+    <image key="CC1B64EDDD8BDD8E9D78DB8CB1E84F24.png"/>
+    <image key="9D3DB9507332AE0DE28FCDAB0E57D8F0.png"/>
+    <image key="26F8C22AA32E5FD760542239D59872D3.png"/>
+    <image key="35CA1CC1026F6EB5A937F8673FF5E4BC.png"/>
+    <image key="3C1126CF24995AF57C7C15D0C9C9B661.png"/>
+    <image key="50756CC178CDAF119CE54794A5B9E65A.png"/>
+    <image key="13484939AD20D1A4F1E90F2CB500CFF0.png"/>
+  </images>
+</project>

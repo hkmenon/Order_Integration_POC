@@ -1,0 +1,23 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="33A2E922-FD72-476A-89D1-78EEC0033C4A" platform="MtWeb" defaultW="1190" defaultH="1050" measureW="1190" measureH="1050" mobileScreenScale="0">
+  <controls controlCount="3">
+    <control controlID="A2C74A25-E57D-481E-9C8C-654493C948D8" controlTypeID="Image" x="32" y="0" w="1128" h="67" zOrder="0">
+      <caption>Header</caption>
+    </control>
+    <control controlID="5A84858D-20A0-4AE6-9B74-7064B3427CAA" controlTypeID="Image" x="30" y="68" w="1133" h="982" zOrder="1">
+      <URL>9D3DB9507332AE0DE28FCDAB0E57D8F0.png</URL>
+    </control>
+    <control controlID="8C43F6A5-06A5-4408-9AF3-6DFA8C0166C2" controlTypeID="HotSpot" x="599" y="720" w="435" h="190" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="80182F0F-47BB-494C-84C9-F7A131988E8E" linkType="ltPageLink" isApplyIncludePage="False" title="Order+-+Billing+Submit">
+          <area shape="0" alt="" ID="{592BBEAE-6D11-43AF-A7A5-5C8DFF898BB1}" coords="(0,0,435,190)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
