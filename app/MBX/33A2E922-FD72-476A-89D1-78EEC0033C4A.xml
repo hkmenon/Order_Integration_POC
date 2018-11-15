@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="33A2E922-FD72-476A-89D1-78EEC0033C4A" platform="MtWeb" defaultW="1190" defaultH="1050" measureW="1190" measureH="1050" mobileScreenScale="0">
-  <controls controlCount="40">
+  <controls controlCount="48">
     <control controlID="2FAF74BB-9918-4A8A-A225-49F7897508BE" controlTypeID="Shape" x="32" y="125" w="493" h="905" zOrder="0">
       <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>Customer+Overview%0D%0A</text>
@@ -95,9 +95,9 @@
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="DB5B38A8-FB96-4C90-816F-F6408380A80F" controlTypeID="TextArea" x="974" y="279" w="191" h="65" zOrder="14">
+    <control controlID="DB5B38A8-FB96-4C90-816F-F6408380A80F" controlTypeID="TextArea" x="974" y="279" w="181" h="65" zOrder="14">
       <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
-      <text>1+iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+1+Wireless+Charger</text>
+      <text>iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+Wireless+Charger</text>
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
@@ -348,6 +348,47 @@
           <area shape="0" alt="" ID="{6197CF4E-28F3-4487-AD07-65D1AFEE808E}" coords="(0,0,86,24)"/>
         </link>
       </links>
+    </control>
+    <control controlID="FE0B5666-ED1F-4D60-B9AF-C1C96C11B2F8" controlTypeID="Label" x="62" y="157" w="37" h="17" zOrder="31">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Name</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="2B6CDA79-0BD2-4E32-B262-632572C819B1" controlTypeID="Link" x="136" y="158" w="155" h="17" zOrder="32">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%5BFirst+Name%5D+%5BLast+Name%5D</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="B4527382-207F-45C9-A416-F95972B99FE0" controlTypeID="Label" x="64" y="194" w="40" h="17" zOrder="33">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Phone+</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="36A3B743-94D0-4798-9E8F-9599DB03DD88" controlTypeID="Label" x="136" y="194" w="234" h="17" zOrder="34">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%5BPhone+Number+1%5D%2C+%5BPhone+Number+2%5D</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="9A10666D-62AF-45F1-95BC-270CAFCC99E4" controlTypeID="Label" x="64" y="234" w="34" h="17" zOrder="35">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Email</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="D2AEAB76-9757-4296-ABB2-7EF15C88DC6F" controlTypeID="Label" x="136" y="234" w="96" h="17" zOrder="36">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%5BEmail+Address%5D</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="81F32D25-BB9D-4BF9-92CE-83201634E668" controlTypeID="Label" x="65" y="279" w="51" h="17" zOrder="37">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Address</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="573BA69D-2A1E-4D2C-A69A-0D0F18A9A572" controlTypeID="TextArea" x="136" y="279" w="240" h="83" zOrder="38">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%5BAddress+Line+1%5D%0D%0A%5BAddress+Line+2%5D%0D%0A%5BCity%5D%0D%0A%5BState%2FProvince%5D%0D%0A%5BZipcode%5D</text>
     </control>
   </controls>
   <param>
